@@ -8,9 +8,24 @@
 
 ### 0.1. 절차적 생성
 
-디아블로3             |  문명5
-:-------------------------:|:-------------------------:
-![](./readmeimg/01diablo.jpg | width=250)|![](./readmeimg/01civ.jpg | width=250)
+<table>
+    <tr text-align="center">
+        <td>
+            **디아블로3
+        </td>
+        <td>
+            **문명 5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./readmeimg/01diablo.jpg">
+        </td>
+        <td>
+            <img src="./readmeimg/01civ.jpg">
+        </td>
+    </tr>
+</table>
 
 방대한 양의 컨텐츠로 오랜 시간 유저를 묶는다는 점 때문에 악마의 게임이라는 악명을 가진 게임들이 있습니다.
 
