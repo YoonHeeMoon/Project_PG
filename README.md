@@ -10,12 +10,12 @@
 
 <table width="100%" text-align="center">
     <tr>
-        <td>
-            **디아블로3
-        </td>
-        <td>
-            **문명 5
-        </td>
+        <th>
+            디아블로3
+        </th>
+        <th>
+            문명 5
+        </th>
     </tr>
     <tr>
         <td width="50%">
