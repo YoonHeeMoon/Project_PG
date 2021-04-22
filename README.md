@@ -8,8 +8,8 @@
 
 ### 0.1. 절차적 생성
 
-<table width="100%">
-    <tr text-align="center">
+<table width="100%" text-align="center">
+    <tr>
         <td>
             **디아블로3
         </td>
