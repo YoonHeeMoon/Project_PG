@@ -19,10 +19,10 @@
     </tr>
     <tr>
         <td>
-            <img src="./readmeimg/01diablo.jpg">
+            <img src="./readmeimg/01diablo.jpg" width="250px">
         </td>
         <td>
-            <img src="./readmeimg/01civ.jpg">
+            <img src="./readmeimg/01civ.jpg" width="250px">
         </td>
     </tr>
 </table>
