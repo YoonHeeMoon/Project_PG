@@ -8,7 +8,7 @@
 
 ### 0.1. 절차적 생성
 
-<table>
+<table width="100%">
     <tr text-align="center">
         <td>
             **디아블로3
@@ -18,11 +18,11 @@
         </td>
     </tr>
     <tr>
-        <td>
-            <img src="./readmeimg/01diablo.jpg" width="250px">
+        <td width="50%">
+            <img src="./readmeimg/01diablo.jpg">
         </td>
-        <td>
-            <img src="./readmeimg/01civ.jpg" width="250px">
+        <td width="50%">
+            <img src="./readmeimg/01civ.jpg">
         </td>
     </tr>
 </table>
