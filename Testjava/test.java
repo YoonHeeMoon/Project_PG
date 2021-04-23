@@ -10,8 +10,8 @@ public class test{
         
         for(int i = 0 ; i < 10 ; i ++){
             for(int j = 0 ; j < 100 ; j++){
-                System.out.print(ran.nextInt(2));
-                map[i][j]=0;
+                map[i][j]=ran.nextInt(2);
+                System.out.print(map[i][j]==0?"O":"8");
             }
             System.out.println();
         }
