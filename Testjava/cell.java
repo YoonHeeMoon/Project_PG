@@ -1,6 +1,8 @@
+package Testjava;
+
 public class cell { 
     public static void main(String[] args) { 
-       int N = Integer.parseInt(args[0]);
+       int N = 10;
        int CELLS = 2 * N;
  
        boolean[] cells = new boolean[CELLS];      // cellular automaton at time t
@@ -11,10 +13,10 @@ public class cell {
  
           // draw current row
           for (int i = 0; i < CELLS; i++) {
-             if(cells[i]) StdOut.print("*");
-             else         StdOut.print(" ");
+             if(cells[i]) System.out.print("*");
+             else         System.out.print(" ");
           }
-          StdOut.println("");
+          System.out.println("");
  
           // save current row
           for (int i = 0; i < CELLS; i++)
