@@ -6,10 +6,11 @@ public class test {
         Random ran = new Random();
         cell c = new cell();
 
+        System.out.println("#Gen0");
         for (int i = 0; i < 10; i++) {
             for (int j = 0; j < 100; j++) {
                 map[i][j] = ran.nextInt(100);
-                if(map[i][j]>45){
+                if(map[i][j]>40){
                     map[i][j]=0;
                 }else{
                     map[i][j]=1;
@@ -35,6 +36,14 @@ public class test {
             System.out.println();
         }
         System.out.println("#Gen3");
+        map = c.cell(map);
+        for (int i = 0; i < 10; i++) {
+            for (int j = 0; j < 100; j++) {
+                System.out.print(map[i][j] == 0 ? " " : "#");
+            }
+            System.out.println();
+        }
+        System.out.println("#Gen4");
         map = c.cell(map);
         for (int i = 0; i < 10; i++) {
             for (int j = 0; j < 100; j++) {
