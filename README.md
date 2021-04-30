@@ -10,19 +10,19 @@
 
 <table width="100%" text-align="center>
     <tr>
+        <th>
+            디아블로3
+        </th>
+        <th>
+            문명 5
+        </th>
+    </tr>
+    <tr>
         <td width="50%">
             <img src="./readmeimg/01diablo.jpg">
         </td>
         <td width="50%">
             <img src="./readmeimg/01civ.jpg">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            ▲ 디아블로3
-        </td>
-        <td>
-            ▲ 문명 5
         </td>
     </tr>
 </table>
