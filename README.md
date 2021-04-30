@@ -8,15 +8,7 @@
 
 ### 0.1. 절차적 생성
 
-<table width="100%" text-align="center" border="0">
-    <tr>
-        <th>
-            디아블로3
-        </th>
-        <th>
-            문명 5
-        </th>
-    </tr>
+<table width="100%" text-align="center>
     <tr>
         <td width="50%">
             <img src="./readmeimg/01diablo.jpg">
@@ -26,12 +18,12 @@
         </td>
     </tr>
     <tr>
-        <th>
+        <td>
             ▲ 디아블로3
-        </th>
-        <th>
+        </td>
+        <td>
             ▲ 문명 5
-        </th>
+        </td>
     </tr>
 </table>
 
